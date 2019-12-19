@@ -1,0 +1,45 @@
+{
+    "name": "European Alien Species Information Network",
+    "description": "European Union website - EUROPA is the official EU website that provides access to information published by all EU institutions, agencies and bodies.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1412-european-alien-species-information-network.jpg",
+    "tags": [
+        "api provider",
+        "biology",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/european-alien-species-information-network\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "European Alien Species Information Network",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1412-european-alien-species-information-network.jpg",
+            "humanURL": "http:\/\/easin.jrc.ec.europa.eu\/use-easin\/web-services",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/european-alien-species-information-network-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/easin.jrc.ec.europa.eu\/use-easin\/web-services"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/european-union"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EU_Commission"
+        }
+    ]
+}
